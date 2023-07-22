@@ -4,7 +4,7 @@ message: hello default
 management.server.port: 8081
 ---
 spring.profiles: development
-message: say hello, this is kishore world, omg, omg, omg
+message: say hello!!!!!, this is kishore world, omg, omg, omg
 ---
 spring.profiles: kubernetes
 message: hello kubernetes
